@@ -1,0 +1,7 @@
+source 'http://localhoust:8808'
+
+gem 'selenium-webdriver'
+gem 'cucumber'
+gem 'rspec-expectations'
+gem 'rake'
+gem 'mgl_test','>=0.0.5'
